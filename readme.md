@@ -1,27 +1,35 @@
 ## 前端畫面
-
-https://tea.cychenwork1.free.nf/about 顯示畫面
+https://prize.cychenwork1.free.nf/ 首頁畫面
 
 ![image](https://github.com/cychenwork1/laravel1/blob/main/image/1.png)
 
-https://tea.cychenwork1.free.nf/news 新聞頁面
+https://prize.cychenwork1.free.nf/act 活動說明
 
 ![image](https://github.com/cychenwork1/laravel1/blob/main/image/2.png)
 
-https://tea.cychenwork1.free.nf/product/list/2 商品頁面
-
 ![image](https://github.com/cychenwork1/laravel1/blob/main/image/3.png)
+
+https://prize.cychenwork1.free.nf/notice 注意事項
 
 ![image](https://github.com/cychenwork1/laravel1/blob/main/image/4.png)
 
+https://prize.cychenwork1.free.nf/qa 活動Q&A
+
 ![image](https://github.com/cychenwork1/laravel1/blob/main/image/5.png)
 
+https://prize.cychenwork1.free.nf/pro 產品介紹
+
 ![image](https://github.com/cychenwork1/laravel1/blob/main/image/6.png)
+
+https://prize.cychenwork1.free.nf/prize 獎品專區
 
 ![image](https://github.com/cychenwork1/laravel1/blob/main/image/7.png)
 
 
+
+
 後端管理系統
+https://prize.cychenwork1.free.nf/admin/home
 
 ![image](https://github.com/cychenwork1/laravel1/blob/main/image/a1.png)
 
