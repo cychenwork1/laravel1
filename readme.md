@@ -1,3 +1,6 @@
+在本機上使用wamp server架設本機mysql資料庫與apache http server環境 此為遷移至雲端空間的案例
+
+
 ## 前端畫面
 https://prize.cychenwork1.free.nf/ 首頁畫面
 
